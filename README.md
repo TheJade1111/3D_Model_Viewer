@@ -1,6 +1,6 @@
-# IKARUS 3D Model Viewer - Deployment Documentation (Render)
+# 3D Model Viewer - Deployment Documentation (Render)
 
-This document outlines the steps to deploy the IKARUS 3D Model Viewer application to the internet using **Render** for both the backend (Node.js/Express server) and the frontend (React application).
+This document outlines the steps to deploy the 3D Model Viewer application to the internet using **Render** for both the backend (Node.js/Express server) and the frontend (React application).
 
 ## Prerequisites
 
